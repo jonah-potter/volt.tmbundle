@@ -1,2 +1,6 @@
 # Volt.tmbundle
 Textmate 2 bundle for Volt. Currently only includes language grammars hacked together from existing ERB/Ruby syntaxes. Very much a WIP.
+
+
+#Installation
+Place volt.tmbundle in ~/Library/Application Support/Avian/Bundles, where ~ is Users/[you].
