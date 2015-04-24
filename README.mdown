@@ -1,5 +1,5 @@
 # Volt.tmbundle
-Textmate 2 bundle for Volt. Currently only includes language grammars hacked together from existing ERB/Ruby syntaxes. Very much a WIP.
+Textmate 2 bundle for [Volt Framework](voltframework.com). Currently only includes language grammars hacked together from existing ERB/Ruby syntaxes. Very much a WIP.
 
 
 #Installation
