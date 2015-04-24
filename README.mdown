@@ -1,0 +1,2 @@
+# Volt.tmbundle
+Textmate 2 bundle for Volt. Currently only includes syntax highlighting hacked together from existing ERB/Ruby syntaxes. Very much a WIP.
